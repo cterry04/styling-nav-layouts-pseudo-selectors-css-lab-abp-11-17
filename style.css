@@ -73,7 +73,7 @@ nav a:hover{
 div.questions a.btn{
   text-decoration: none;
   border-radius: 5px;
-  padding: 0 20px 0 20px;
+  padding: 18px;
   background-color: #007bff;
   border-color: #007bff;
   font-size: 20px;
